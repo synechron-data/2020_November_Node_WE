@@ -1,0 +1,12 @@
+In Domian Calls (Same Origin)
+
+http://localhost:3000/users		Application
+
+http://localhost:3000/api/users		Api
+
+
+Cross Domian Calls (Cross Origin) - Enable CORS
+
+http://localhost:4000/users		Application
+
+http://localhost:3000/api/users		Api
